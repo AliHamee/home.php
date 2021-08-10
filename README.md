@@ -6,7 +6,7 @@
 # API : 
 1. لجلب معلومات الكي الخاص بالمستخدم : 
 `https://bot.keko.dev/api.php?key={KEY}` : **Response** : [
- - true : `{"ok":true,"chat_id":"775392974","bot_id":"1220697355","bot_username":"TMOLbbot","coin":"775223160"}`
+ - true : `{"ok":true,"chat_id":"1009015069","bot_id":"1922291587","bot_username":"M100_vip_bot","coin":"775223160"}`
 
 - false : `{"ok":false}` // KEY IS EXPIEED!!
  ]
